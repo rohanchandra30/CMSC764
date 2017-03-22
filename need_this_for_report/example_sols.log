@@ -1,0 +1,365 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=pdflatex 2016.12.22)  10 MAR 2017 23:14
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**example_sols.tex
+(/home/rohan/spring17/764/need_this_for_report/example_sols.tex
+LaTeX2e <2016/03/31> patch level 3
+Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks14
+\verbatim@line=\toks15
+\verbatim@in@stream=\read1
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2016/07/10 v1.0t Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2016/07/10 v0.06j Graphics/color for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count88
+\float@exts=\toks17
+\float@box=\box26
+\@float@everytoks=\toks18
+\@floatcapt=\box27
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/06/28 v2.15d AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen105
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count89
+LaTeX Info: Redefining \frac on input line 199.
+\uproot@=\count90
+\leftroot@=\count91
+LaTeX Info: Redefining \overline on input line 297.
+\classnum@=\count92
+\DOTSCASE@=\count93
+LaTeX Info: Redefining \ldots on input line 394.
+LaTeX Info: Redefining \dots on input line 397.
+LaTeX Info: Redefining \cdots on input line 518.
+\Mathstrutbox@=\box28
+\strutbox@=\box29
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 634.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 635.
+\macc@depth=\count94
+\c@MaxMatrixCols=\count95
+\dotsspace@=\muskip10
+\c@parentequation=\count96
+\dspbrk@lvl=\count97
+\tag@help=\toks20
+\row@=\count98
+\column@=\count99
+\maxfields@=\count100
+\andhelp@=\toks21
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks22
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2739.
+LaTeX Info: Redefining \] on input line 2740.
+)
+(/home/rohan/spring17/764/need_this_for_report/example_sols.aux)
+\openout1 = `example_sols.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 10.
+LaTeX Font Info:    ... okay on input line 10.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count101
+\scratchdimen=\dimen114
+\scratchbox=\box30
+\nofMPsegments=\count102
+\nofMParguments=\count103
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count104
+\MPscratchDim=\dimen115
+\MPnumerator=\count105
+\makeMPintoPDFobject=\count106
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+Underfull \hbox (badness 10000) in paragraph at lines 29--30
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--32
+
+ []
+
+<richardson_2.jpg, id=1, 894.34125pt x 705.63625pt>
+File: richardson_2.jpg Graphic file (type jpg)
+ <use richardson_2.jpg>
+Package pdftex.def Info: richardson_2.jpg used on input line 41.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+<richardson_denoised_2.jpg, id=2, 894.34125pt x 705.63625pt>
+File: richardson_denoised_2.jpg Graphic file (type jpg)
+
+<use richardson_denoised_2.jpg>
+Package pdftex.def Info: richardson_denoised_2.jpg used on input line 47.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+<richardson_10.jpg, id=3, 894.34125pt x 705.63625pt>
+File: richardson_10.jpg Graphic file (type jpg)
+ <use richardson_10.jpg>
+Package pdftex.def Info: richardson_10.jpg used on input line 54.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/rohan/spring17/764/n
+eed_this_for_report/richardson_2.jpg> </home/rohan/spring17/764/need_this_for_r
+eport/richardson_denoised_2.jpg>]
+<richardson_denoised_10.jpg, id=16, 894.34125pt x 705.63625pt>
+File: richardson_denoised_10.jpg Graphic file (type jpg)
+
+<use richardson_denoised_10.jpg>
+Package pdftex.def Info: richardson_denoised_10.jpg used on input line 60.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+<conjgrad_2.jpg, id=17, 894.34125pt x 705.63625pt>
+File: conjgrad_2.jpg Graphic file (type jpg)
+ <use conjgrad_2.jpg>
+Package pdftex.def Info: conjgrad_2.jpg used on input line 70.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+[2 </home/rohan/spring17/764/need_this_for_report/richardson_10.jpg> </home/roh
+an/spring17/764/need_this_for_report/richardson_denoised_10.jpg>]
+<conjgrad_denoised_2.jpg, id=21, 894.34125pt x 705.63625pt>
+File: conjgrad_denoised_2.jpg Graphic file (type jpg)
+
+<use conjgrad_denoised_2.jpg>
+Package pdftex.def Info: conjgrad_denoised_2.jpg used on input line 76.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+<conjgrad_10.jpg, id=22, 894.34125pt x 705.63625pt>
+File: conjgrad_10.jpg Graphic file (type jpg)
+ <use conjgrad_10.jpg>
+Package pdftex.def Info: conjgrad_10.jpg used on input line 83.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+<conjgrad_denoised_10.jpg, id=23, 894.34125pt x 705.63625pt>
+File: conjgrad_denoised_10.jpg Graphic file (type jpg)
+
+<use conjgrad_denoised_10.jpg>
+Package pdftex.def Info: conjgrad_denoised_10.jpg used on input line 89.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+ [3 </home/rohan/spring17/764/need_this_for_report/conjgrad_2.jpg> </home/rohan
+/spring17/764/need_this_for_report/conjgrad_denoised_2.jpg> </home/rohan/spring
+17/764/need_this_for_report/conjgrad_10.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--97
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--104
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+
+ []
+
+[4 </home/rohan/spring17/764/need_this_for_report/conjgrad_denoised_10.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+ []
+
+
+Overfull \hbox (90.17578pt too wide) in paragraph at lines 111--112
+[]\OT1/cmr/bx/n/10 By this, we can see that $\OML/cmm/m/it/10 ^^\$ \OT1/cmr/bx/
+n/10 de-pends in-versely on $\OML/cmm/m/it/10 ^^V$ \OT1/cmr/bx/n/10 as $[]$
+ []
+
+<l2denoise.jpg, id=31, 894.34125pt x 705.63625pt>
+File: l2denoise.jpg Graphic file (type jpg)
+ <use l2denoise.jpg>
+Package pdftex.def Info: l2denoise.jpg used on input line 118.
+(pdftex.def)             Requested size: 172.5pt x 136.0965pt.
+
+<1e2_points_clustering.jpg, id=32, 894.34125pt x 705.63625pt>
+File: 1e2_points_clustering.jpg Graphic file (type jpg)
+
+<use 1e2_points_clustering.jpg>
+Package pdftex.def Info: 1e2_points_clustering.jpg used on input line 129.
+(pdftex.def)             Requested size: 345.0pt x 272.20377pt.
+ [5 </home/rohan/spring17/764/need_this_for_report/l2denoise.jpg>]
+<1e5_points_clustering.jpg, id=37, 894.34125pt x 705.63625pt>
+File: 1e5_points_clustering.jpg Graphic file (type jpg)
+
+<use 1e5_points_clustering.jpg>
+Package pdftex.def Info: 1e5_points_clustering.jpg used on input line 147.
+(pdftex.def)             Requested size: 345.0pt x 272.20377pt.
+ [6 </home/rohan/spring17/764/need_this_for_report/1e2_points_clustering.jpg>] 
+[7 </home/rohan/spring17/764/need_this_for_report/1e5_points_clustering.jpg>]
+(/home/rohan/spring17/764/need_this_for_report/example_sols.aux) ) 
+Here is how much of TeX's memory you used:
+ 2225 strings out of 493013
+ 31039 string characters out of 6135681
+ 93064 words of memory out of 5000000
+ 5748 multiletter control sequences out of 15000+600000
+ 5911 words of font info for 22 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,6n,25p,378b,228s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
+7.pfb>
+Output written on /home/rohan/spring17/764/need_this_for_report/example_sols.pd
+f (7 pages, 969813 bytes).
+PDF statistics:
+ 75 PDF objects out of 1000 (max. 8388607)
+ 45 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
+
